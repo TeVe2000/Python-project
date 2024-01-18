@@ -1,1 +1,2 @@
-"# test" 
+# Python project 
+The main aim of the project is to provide a simple vector autoregression (VAR) model producing forecasts for key Czech macroeconomic variables, which can then be compared with the official forecasts of the Czech National Bank (CNB). The data used are fetched from the CNB's ARAD database. Hence, the project can be seen as a little methodological experiment trying to find out to what extent would "amateur" forecasts derived via a basic VAR model differ from the professional ones based on the same data. Additionally, various customisable visualisations of both the historical data and the projections are presented.
